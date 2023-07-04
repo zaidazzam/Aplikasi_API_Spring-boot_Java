@@ -1,0 +1,13 @@
+package com.magang.aplikasi_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AplikasiApiApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AplikasiApiApplication.class, args);
+    }
+
+}
